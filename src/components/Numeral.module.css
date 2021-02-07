@@ -1,0 +1,26 @@
+.numeral {
+  /* color: blue; */
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.numeral:hover,
+.numeral:focus {
+  outline: none;
+  box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.numeral.reversed {
+  transform: scaleX(-1);
+  /* color: fuchsia; */
+  display: inline-block;
+}
+
+.numeral.correct {
+  color: #00aa00;
+  transform: none;
+}
+
+.numeral.incorrect {
+  color: red;
+}
