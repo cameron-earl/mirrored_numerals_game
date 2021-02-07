@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.numerals {
+  display: flex;
+  justify-content: center;
+}
+
+.points {
+  background: rgb(0, 69, 173);
+  margin: 1em;
+  color: white;
+  border-radius: 2em;
+  padding: 1em;
+}
+
+.points:focus {
+  outline: none;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
