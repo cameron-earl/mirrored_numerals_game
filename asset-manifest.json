@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mirrored_numerals_game/static/css/main.19492f53.chunk.css",
+    "main.js": "/mirrored_numerals_game/static/js/main.df85b35d.chunk.js",
+    "main.js.map": "/mirrored_numerals_game/static/js/main.df85b35d.chunk.js.map",
+    "runtime-main.js": "/mirrored_numerals_game/static/js/runtime-main.98d42e70.js",
+    "runtime-main.js.map": "/mirrored_numerals_game/static/js/runtime-main.98d42e70.js.map",
+    "static/js/2.11c5d942.chunk.js": "/mirrored_numerals_game/static/js/2.11c5d942.chunk.js",
+    "static/js/2.11c5d942.chunk.js.map": "/mirrored_numerals_game/static/js/2.11c5d942.chunk.js.map",
+    "index.html": "/mirrored_numerals_game/index.html",
+    "precache-manifest.4e6fef52b29c08e908dd8c540e5d20d5.js": "/mirrored_numerals_game/precache-manifest.4e6fef52b29c08e908dd8c540e5d20d5.js",
+    "service-worker.js": "/mirrored_numerals_game/service-worker.js",
+    "static/css/main.19492f53.chunk.css.map": "/mirrored_numerals_game/static/css/main.19492f53.chunk.css.map",
+    "static/js/2.11c5d942.chunk.js.LICENSE.txt": "/mirrored_numerals_game/static/js/2.11c5d942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98d42e70.js",
+    "static/js/2.11c5d942.chunk.js",
+    "static/css/main.19492f53.chunk.css",
+    "static/js/main.df85b35d.chunk.js"
+  ]
+}
